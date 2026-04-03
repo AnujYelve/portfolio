@@ -8,37 +8,36 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Soumyajit Behera</span>{" "}
-            from <span className="purple">Bhubaneswar, India</span>.
-            <br />
-            I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
+            Hi, I’m <span className="purple">Anuj Yelve</span> from <span className="purple">Mumbai, Maharashtra</span>.
             <br />
             <br />
-            Outside of coding, I love engaging in activities that keep me
-            creative and inspired:
+            I’m a performance-driven <span className="purple">Full Stack Developer</span> with hands-on experience building real-world SaaS applications.
+            I recently worked at <span className="purple">Agility AI</span>, where I contributed to multiple live products, handling end-to-end development — from building responsive frontend interfaces using React to designing scalable backend systems and deploying them on GCP using Docker and CI/CD.
+            <br />
+            <br />
+            I specialize in <span className="purple">React.js, Next.js, Node.js, and PostgreSQL</span>, with strong expertise in REST APIs, microservices architecture, and secure authentication systems.
+            <br />
+            <br />
+            I am pursuing a <span className="purple">B.Tech in Electronics and Communication Engineering</span> from <span className="purple">IIIT Ranchi</span>.
+            <br />
+            <br />
+            I enjoy solving complex problems and building scalable, high-performance applications with clean and maintainable code. Aside from coding, some other activities I love:
           </p>
 
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games 🎮
             </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs ✍️
-            </li>
+
             <li className="about-activity">
               <ImPointRight /> Traveling and Exploring New Places 🌍
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Strive to build high-impact, scalable systems!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Anuj Yelve</footer>
         </blockquote>
       </Card.Body>
     </Card>
