@@ -26,7 +26,7 @@ function Home2() {
                   JavaScript (ES6+), TypeScript, Python, C, C++, SQL, Node.js, React.js{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              and I enjoy working across both backend and frontend stacks.
               <br />
               <br />
               My key areas of interest include developing

@@ -12,10 +12,10 @@ function AboutCard() {
             <br />
             <br />
             I’m a performance-driven <span className="purple">Full Stack Developer</span> with hands-on experience building real-world SaaS applications.
-            I recently worked at <span className="purple">Agility AI</span>, where I contributed to multiple live products, handling end-to-end development — from building responsive frontend interfaces using React to designing scalable backend systems and deploying them on GCP using Docker and CI/CD.
+            I recently worked at <span className="purple">Agility AI</span>, where I contributed to multiple live products, handling end-to-end development from building responsive frontend interfaces using React to designing scalable backend systems and deploying them on GCP using Docker and CI/CD.
             <br />
             <br />
-            I specialize in <span className="purple">React.js, Next.js, Node.js, and PostgreSQL</span>, with strong expertise in REST APIs, microservices architecture, and secure authentication systems.
+            I specialize in <span className="purple">React.js, Next.js, Node.js, and PostgreSQL</span>, with strong expertise in REST APIs, <span className="purple">microservices architecture</span>, and secure authentication systems.
             <br />
             <br />
             I am pursuing a <span className="purple">B.Tech in Electronics and Communication Engineering</span> from <span className="purple">IIIT Ranchi</span>.
